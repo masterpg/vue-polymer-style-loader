@@ -1,11 +1,12 @@
 {
-  "name": "vue-style-loader",
-  "version": "4.1.2",
-  "author": "Evan You",
+  "name": "vue-polymer-style-loader",
+  "version": "0.0.1",
+  "author": "Masaaki Hojo",
   "description": "Vue.js style loader module for webpack",
+  "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:vuejs/vue-style-loader.git"
+    "url": "https://masterpg@bitbucket.org/masterpg/vue-polymer-style-loader.git"
   },
   "scripts": {
     "test": "jest",
