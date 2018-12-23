@@ -1,6 +1,6 @@
 {
   "name": "vue-polymer-style-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Masaaki Hojo",
   "description": "Vue.js style loader module for webpack",
   "private": true,
