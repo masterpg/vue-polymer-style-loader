@@ -6,7 +6,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://masterpg@bitbucket.org/masterpg/vue-polymer-style-loader.git"
+    "url": "https://github.com/masterpg/vue-polymer-style-loader.git"
   },
   "scripts": {
     "test": "jest",
